@@ -46,6 +46,10 @@ hr {
   margin-bottom: 100px;
 }
 
+p {
+  font-size: 1rem;
+}
+
 
 .bottom-cloud {
   position: absolute;
